@@ -1,0 +1,14 @@
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\bin\Debug\netcoreapp2.2\blog-api.deps.json
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\bin\Debug\netcoreapp2.2\blog-api.runtimeconfig.json
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\bin\Debug\netcoreapp2.2\blog-api.runtimeconfig.dev.json
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\bin\Debug\netcoreapp2.2\blog-api.dll
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.csproj.CoreCompileInputs.cache
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.RazorAssemblyInfo.cache
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.RazorAssemblyInfo.cs
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.AssemblyInfoInputs.cache
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.AssemblyInfo.cs
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.RazorTargetAssemblyInfo.cache
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\bin\Debug\netcoreapp2.2\blog-api.pdb
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.dll
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.pdb
+C:\Users\Simi\source\repos\blog-using-tdd\blog-api\obj\Debug\netcoreapp2.2\blog-api.csprojAssemblyReference.cache
